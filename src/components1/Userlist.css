@@ -1,0 +1,10 @@
+body{
+    background-color: #fd9f10;
+}
+
+.main{
+    color: #8105f4;
+    margin-left: 30rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
